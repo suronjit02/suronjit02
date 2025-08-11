@@ -28,16 +28,15 @@
 ## 📂 Featured Projects
 | Project Name | Description | Live Demo | Repo |
 |--------------|-------------|-----------|------|
-| **Portfolio Website** | Personal portfolio showcasing my skills & projects | [Live](https://your-live-link.com) | [Code](https://github.com/suronjit02/portfolio) |
-| **Restaurant Landing Page** | Responsive website for a restaurant business | [Live](https://your-live-link.com) | [Code](https://github.com/suronjit02/restaurant) |
-| **E-commerce Website** | Shopping platform with cart & checkout features | [Live](https://your-live-link.com) | [Code](https://github.com/suronjit02/ecommerce) |
+| **Restaurant Landing Page** | Recipe Page | [Live]([https://your-live-link.com](https://inquisitive-chaja-5c6d18.netlify.app/)) | [Code]([https://github.com/suronjit02/restaurant](https://github.com/suronjit02/Frontend-Mentor-Project/tree/main/recipe-page-main)) |
+| **E-commerce Website** | Shopping platform with cart & checkout features | [Live]([https://your-live-link.com](https://suronjit02.github.io/Flower-Responsive-Project/)) | [Code]([https://github.com/suronjit02/ecommerce](https://github.com/suronjit02/Flower-Responsive-Project)) |
 
 ---
 
 ## 📞 Connect With Me
-- **Facebook:** [facebook.com/yourusername](https://facebook.com/yourusername)  
-- **GitHub:** [github.com/suronjit02](https://github.com/suronjit02)  
 - **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **GitHub:** [github.com/suronjit02](https://github.com/suronjit02)  
+- **Facebook:** [facebook.com/yourusername](https://facebook.com/yourusername)  
 
 ---
 
