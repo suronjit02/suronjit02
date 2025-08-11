@@ -29,14 +29,14 @@
 | Project Name | Description | Live Demo | Repo |
 |--------------|-------------|-----------|------|
 | **Restaurant Landing Page** | Recipe Page | [Live](https://inquisitive-chaja-5c6d18.netlify.app/) | [Code](https://github.com/suronjit02/Frontend-Mentor-Project/tree/main/recipe-page-main) |
-| **E-commerce Website** | Shopping platform with cart & checkout features | [Live](https://suronjit02.github.io/Flower-Responsive-Project/) | [Code](https://github.com/suronjit02/Flower-Responsive-Project) |
+| **E-commerce Website** | Flower Shop | [Live](https://suronjit02.github.io/Flower-Responsive-Project/) | [Code](https://github.com/suronjit02/Flower-Responsive-Project) |
 
 ---
 
 ## 📞 Connect With Me
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/suronjit02)
-- **GitHub:** [github.com/suronjit02](https://github.com/suronjit02)  
-- **Facebook:** [facebook.com/yourusername](https://facebook.com/suronjit02)  
+- **LinkedIn:** [Click Here](https://linkedin.com/in/suronjit02)
+- **GitHub:** [Click Here](https://github.com/suronjit02)  
+- **Facebook:** [Click Here](https://facebook.com/suronjit02)  
 
 ---
 
