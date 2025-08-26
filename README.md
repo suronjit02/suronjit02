@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suronjit 👋</h1>
-<h3 align="center">💻 CSE Student | MERN Stack Learner | Web Developer 💻 🚀 Passionate about Programming & Building Real-life Projects</h3>
+<h3 align="center">💻 CSE Student | MERN Stack Learner | Web Developer 💻 <br/> 🚀 Passionate about Programming & Building Real-life Projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suronjit02" alt="suronjit02" /></a> </p>
 
