@@ -40,15 +40,12 @@
 <hr style="height:2px; background:white; border:none;" />
 
 <br>
-<div align="">
+<div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
-  
-  <br>
-
-  <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
+  <img style="height:170px; margin-right:12px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
+<!-- Total Stats -->
+  <img style="height:170px; margin-left:12px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
 
 </div>
 
@@ -85,4 +82,9 @@
   <i>“Everything begins here” — Pinpoint</i>  
   <br>
   Minimalism | Creativity | Passion
+
 </p>
+
+<hr>
+
+<p align="center"><i >@made-by-suronjit</i></p>
