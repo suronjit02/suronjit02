@@ -42,7 +42,6 @@
 <!--stats for most used language -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="suronjit02" /></p>
 
-<br><br>
 <!--total stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="suronjit02" /></p>
 
