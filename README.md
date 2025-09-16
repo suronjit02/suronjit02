@@ -17,8 +17,8 @@
 <h3 align="left" style="color: ">Languages and Tools:</h3>
 <hr>
 
-<p align="left"> 
 <!-- programming language -->
+<p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -39,14 +39,20 @@
 
 <hr style="height:2px; background:white; border:none;" />
 
-<!--stats for most used language -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="suronjit02" /></p>
+<br>
+<div align="">
 
-<!--total stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="suronjit02" /></p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
+  
+  <br>
 
-<!-- badge -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suronjit02" alt="suronjit02" /></a> </p>
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
+
+</div>
+
+<br>
 
 <hr style="height:2px; background:white; border:none;" />
 
@@ -63,10 +69,9 @@
 <!-- contact section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suronjit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suronjit02" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/suronjit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suronjit02" height="30" width="40" /></a>
 <a href="https://fb.com/suronjit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suronjit02" height="30" width="40" /></a>
-<a href="https://instagram.com/suronjit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suronjit02" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/suronjitsutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suronjitsutradhar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suronjit02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suronjit02" height="30" width="40" /></a>
 </p>
