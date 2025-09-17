@@ -54,21 +54,21 @@
 
 </div>
 
-
-
-
 ### 📈 Activity Graph
 
-<table>
+<div align="center">
+
+  <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=suronjit02&theme=transparent&ring=006666&fire=20c997&currStreakNum=ffffff&sideNums=20c997&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" height="170"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark" alt="Contribution Graph" height="170"/>
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
@@ -86,12 +86,12 @@
 
 <br><br>
 
+<!-- greeting section -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
 <br>
-
 
 <!-- contact section -->
 <h3 align="left">Connect with me:</h3>
@@ -116,8 +116,7 @@
 
 <br>
 
-<hr>
-
+---
 
 <!-- rule -->
 <p align="center">
@@ -128,6 +127,6 @@
 </p>
 
 
-<hr>
+---
 
 <p align="center"><i>@made-by-suronjit</i></p>
