@@ -38,24 +38,37 @@
 
 <br>
 
+
+### 📊 Stats Overview
 <div align="center">
-  <!-- Top Languages -->
-  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
-<span> </span>
-<!-- Total Stats -->
-  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="Top Languages" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="Total Stats" height="170"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 
-  <!-- GitHub Streak -->
-   <img style="height:170px;" src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" />
+### 📈 Activity Graph
 
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark" alt="Contribution Graph" height="170"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
