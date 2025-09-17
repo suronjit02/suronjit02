@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Suronjit 👋</h1>
-<h3 align="center">💻 CSE Student | MERN Stack Learner | Web Developer 💻<br> 🚀 Passionate about Programming & Building Real-life Projects</h3>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+
+<h1 align="center">Hi, I'm Suronjit 👋 </h1>
+<h3 align="center">💻 CSE Student | MERN Stack Learner | Web Developer 💻<br>  Passionate about Programming & Building Real-life Projects.</h3>
 
 <hr style="height:2px; background:white; border:none;" />
 
@@ -46,6 +51,11 @@
 
   <!-- Top Languages -->
   <img style="height:170px; margin-right:12px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
+
+<!-- GitHub Streak -->
+  <img style="height:170px;" src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" />
+
+
 <!-- Total Stats -->
   <img style="height:170px; margin-left:12px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
 
@@ -70,6 +80,15 @@
 | **E-commerce Website** | Flower Shop | [Live](https://suronjit02.github.io/Flower-Responsive-Project/) | [Code](https://github.com/suronjit02/Flower-Responsive-Project) |
 
 <hr style="height:2px; background:white; border:none;" />
+
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+
+<br>
+
 
 <!-- contact section -->
 <h3 align="left">Connect with me:</h3>
@@ -96,6 +115,7 @@
 
 <hr>
 
+
 <!-- rule -->
 <p align="center">
   <i>“Everything begins here” — Pinpoint</i>  
@@ -104,44 +124,7 @@
 
 </p>
 
+
 <hr>
 
 <p align="center"><i>@made-by-suronjit</i></p>
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suronjit02&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/suronjit02/Frontend-Mentor-Project">
-    <img src="https://github.com/suronjit02/Frontend-Mentor-Project/blob/main/product-preview-card-component/design/desktop-design.jpg" alt="Project 1" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
