@@ -40,17 +40,19 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img style="height:170px; margin-right:12px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
+  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
 
 <span>" "</span>
 
 <!-- Total Stats -->
-  <img style="height:170px; margin-left:12px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
+  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
 </div>
 
 <!-- GitHub Streak -->
-  <img style="height:170px; align:center;" src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" />
+  <div align="center">
+    <img style="height:170px;" src="https://github-readme-streak-stats.herokuapp.com/?user=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=006666" alt="GitHub Streak" />
 
+  </div>
 ## 📈 Activity Graph
 
 <div align="center">
