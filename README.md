@@ -8,16 +8,6 @@
 
 <hr style="height:2px; background:white; border:none;" />
 
-<!-- about section -->
-## 👨‍💻 About Me
-- 🎓 Studying **Computer Science & Engineering** at Northern University Bangladesh  
-- 🌱 Currently learning **MERN Stack Development**  
-- 🎯 Goal: Become a **Professional Web Developer** ready for global marketplaces  
-- 💡 Love to work with **HTML, CSS, JavaScript, Node.js, MongoDB**
-
-<hr style="height:2px; background:white; border:none;" />
-
-
 <!-- language and tools -->
 <h2 align="left" style="color: ">Languages and Tools:</h2>
 
