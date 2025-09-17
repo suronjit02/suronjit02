@@ -41,9 +41,7 @@
 
   <!-- Top Languages -->
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="top langs" />
-
-<span>" "</span>
-
+<span> </span>
 <!-- Total Stats -->
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="total stats" />
 </div>
