@@ -98,12 +98,13 @@
   <a href="https://www.leetcode.com/suronjit02" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://judge.beecrowd.com/en/profile/953690" target="_blank">
+  <img src="https://img.shields.io/badge/Beecrowd-7B2CBF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTUlEQVQ4T6WTv0tCURSFv5ndxA5sBBGxsLGwsZCQmFgY2NgY2FiY2FgYkMiCysbCwsrCwsLCwsLCgoCMhMjDc8s3vOveeee+49d85z7znnPOeZw1Hk0QxgEH4CzWcCqjfhRGXFYxngN8zS9qsCiNfA8k1gIVdN8UOHTiaqpFq6VY1XdE0QGYP8zCk6jspnQ2ddxS5hU5zCYDqY1fDkgbhPZR8oJ6mKq0JvJWv8fH9T40H+lNPKqwTJCzS81LYEodPmQk7l2+pZP6Aj14F5w4ghXzC4TyCGM2zHsqcjCzSa3U/7BsUPIrP8a3GynG2kO2HtSbmwsa6J9u5FxndjGiVtkL39hCg24f0Q4xD3czICZ4N5QL8gc0DuL7iDqNZzRQ1k1nBL91KF1CkVRtS8po1g9t6tjYELP9kuC0p9nqj0yKJR2Z7pdhY2d8DHgY3wAGfxC1qUPrZRnHGfxCgreTQzkDa6Dvs7cADFe8E7lEC+oN8DxUQ5f2QS/8AC5FltYGnWrTAAAAAElFTkSuQmCC&logoColor=white" />
+</a>
   <a href="https://github.com/suronjit02" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://judge.beecrowd.com/en/profile/953690" target="_blank">
-  <img src="https://img.shields.io/badge/-Beecrowd-6CB33F?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAAsElEQVQ4T2NkoBAwwhgYGBj%2B59u3bxnEYFgMxP%2F///9jY2PjPwMDAwMjI2NgYGD4D8QxgYGBgYmJiYHh%2F%2F%2F%2FwPwPxP5HxkYGBgYGBkZmBj4z4DAwMDIyMjAwMDA8GPgPwPxPyPwPxP4HxPyPwPwMxPzPwPxPwPwPxP8ZmBgYGBgYGBkYGPgPwPxP8P4HxPwPwPwPxPwPwPxP0H0JiYmBgYGDgPwPxPzPwPwPwPwPwPwPxPwPwPwP4HwEAM%2FEA6v1JhcYAAAAASUVORK5CYII%3D&logoColor=black" />
-</a>
+  
 
 </p>
 
