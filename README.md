@@ -6,19 +6,34 @@
   />
 </p>
 
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+<h1 align="center">Hi, I'm Suronjit 👋</h1>
+<h3 align="center">
+MERN Stack Web Developer | CSE Student <br/>
+Building scalable, production-ready web applications
+</h3>
+
+## 👨‍💻 About Me
+
+I am a MERN Stack Web Developer with a strong foundation in building full-stack, scalable web applications.
+I specialize in React for frontend and Node.js, Express, and MongoDB for backend development.
+I have experience working with real-world projects, REST APIs, authentication, and modern UI practices.
+Currently, I am actively seeking a junior to mid-level web developer role where I can contribute and grow.
+
+## 🔥 Current Activities
+
+- 🧩 Building and improving **full-stack MERN projects**
+- ⚡ Optimizing applications for performance and clean architecture
+- 🌱 Exploring **Next.js** and modern React patterns
+- 🔄 Continuously improving skills through real-world projects
+
+
+
 <!-- language and tools -->
 <h2 align="left" style="color: ">Languages and Tools:</h2>
-
-### Competitive Programming:
-<p align="left">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
 
 ### Web Development:
 <p align="left">
@@ -32,6 +47,23 @@
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
+### Competitive Programming:
+<p align="left">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+### Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+</p>
+
 
 
 <br>
@@ -47,10 +79,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666" alt="Top Languages" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suronjit02&show_icons=true&locale=en&layout=compact&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&cache_seconds=86400" alt="Top Languages" height="170"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff" alt="Total Stats" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=suronjit02&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=20c997&icon_color=006666&border_color=ffffff&cache_seconds=86400" alt="Total Stats" height="170"/>
     </td>
   </tr>
 </table>
@@ -67,7 +99,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=suronjit02&theme=transparent&ring=006666&fire=20c997&currStreakNum=ffffff&sideNums=20c997&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" height="170"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark" alt="Contribution Graph" height="170"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark&cache_seconds=86400" alt="Contribution Graph" height="170"/>
     </td>
   </tr>
 </table>
@@ -107,9 +139,7 @@
   <a href="https://www.frontendmentor.io/profile/suronjit02" target="_blank">
   <img src="https://img.shields.io/badge/Frontend%20Mentor-ffffff?style=flat-square&logo=frontendmentor&logoColor=3F54A3" />
 </a>
-<a href="https://github.com/suronjit02" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+
   
 
 </p>
