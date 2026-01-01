@@ -1,12 +1,15 @@
+
+<p align="center">
+  <img 
+    src="banner.png" 
+    alt="GitHub Banner"
+  />
+</p>
+
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
-
-<h1 align="center">Hi, I'm Suronjit 👋 </h1>
-<h3 align="center">💻 CSE Student | MERN Stack Learner | Web Developer 💻<br>  Passionate about Programming & Building Real-life Projects.</h3>
-
-<hr style="height:2px; background:white; border:none;" />
 
 <!-- language and tools -->
 <h2 align="left" style="color: ">Languages and Tools:</h2>
