@@ -1,4 +1,10 @@
 
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+
 <p align="center">
   <img 
     src="github-banner1.png" 
@@ -6,9 +12,7 @@
   />
 </p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=suronjit02&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
 
 <h1 align="center">Hi, I'm Suronjit 👋</h1>
 <h3 align="center">
