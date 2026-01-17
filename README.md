@@ -126,7 +126,9 @@ Currently, I am actively seeking a junior to mid-level web developer role where 
 <h3 align="left">Connect with me:</h3>
 
 <p>Email: suronjit02@gmail.com</p>
+<br/>
 <p>WhatsApp: +88 01739-145813</p>
+
 <p align="left">
   <a href="https://linkedin.com/in/suronjit02" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
