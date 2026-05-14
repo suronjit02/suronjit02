@@ -72,7 +72,8 @@ Currently seeking a junior to mid-level web developer opportunity to contribute,
 <br>
 
 <!-- ### 📊 Stats Overview
-<div align="center"> -->
+
+<div align="center">
 <table>
   <tr>
     <td>
@@ -84,7 +85,7 @@ Currently seeking a junior to mid-level web developer opportunity to contribute,
   </tr>
 </table>
 
-</div>
+</div> -->
 
 ### 📈 Activity Graph
 
