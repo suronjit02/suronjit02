@@ -9,7 +9,7 @@
   />
 </p>
 
-<h1 align="center" >Hi, I'm Suronjit 👋</h1>
+<h1 align="center" >Hi, I'm Suronjit</h1>
 <h3 align="center">
 MERN Stack Web Developer | CSE Student <br/>
 Building scalable, production-ready web applications
