@@ -94,7 +94,7 @@ Currently seeking a junior to mid-level web developer opportunity to contribute,
   <table>
   <tr>
     <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=suronjit02&theme=transparent&ring=006666&fire=20c997&currStreakNum=ffffff&sideNums=20c997&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" height="170"/>
+    <img src="https://github-readme-streak-stats-p7nz.onrender.com/?user=suronjit02&theme=transparent&ring=006666&fire=20c997&currStreakNum=ffffff&sideNums=20c997&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" height="170"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjit02&theme=react-dark&cache_seconds=86400" alt="Contribution Graph" height="170"/>
