@@ -12,8 +12,8 @@
 <h1 align="center" >Hi, I'm Suronjit</h1>
 <h3 align="center">
 MERN Stack Web Developer | CSE Student <br/>
-Building scalable, production-ready web applications
-</h3>
+Building scalable, production-ready web applications </br>
+Competitive Problem Solver</h3>
 
 ## About Me
 
